@@ -57,7 +57,7 @@ counter = 0
 
 def main():
     global counter
-    st.title("MediBot")
+    st.title("PharmanBot")
     st.write("**Medicine Information Chatbot**")
 
     menu = ["Home", "Conversation History", "About"]
